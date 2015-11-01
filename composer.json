@@ -1,0 +1,20 @@
+{
+	"name": "hypejunction/elgg_media",
+	"type": "elgg-plugin",
+	"description": "Icon API",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin", "media", "icons", "icon", "cover"
+	],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"require-dev": {
+		"composer/installers": "1.*"
+	}
+}
+
